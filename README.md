@@ -86,3 +86,4 @@
 ### Misc
 * ["Papers I Have Loved" by Casey Muratori](https://www.youtube.com/watch?v=SDS5gLSiLg0)
 * [lisyarus blog](https://lisyarus.github.io/blog/)
+* [How to make an infinite grid](http://asliceofrendering.com/scene%20helper/2020/01/05/InfiniteGrid/)
