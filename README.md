@@ -71,6 +71,7 @@
 ### 2D/3D collision detection
 * [Building Collision Simulations: An Introduction to Computer Graphics](https://www.youtube.com/watch?v=eED4bSkYCB8)
 * [A Strange But Elegant Approach to a Surprisingly Hard Problem (GJK Algorithm)](https://www.youtube.com/watch?v=ajv46BSqcK4)
+* [A Geometric Interpretation of the Boolean Gilbert-Johnson-Keerthi Algorithm](https://arxiv.org/pdf/1505.07873)
 * [Basic Minkowski-based Collision Detection](https://www.youtube.com/watch?v=_g8DLrNyVsQ)
 * [Implementing GJK - 2006](https://www.youtube.com/watch?v=Qupqu1xe7Io)
 * [GJK + Expanding Polytope Algorithm - Implementation and Visualization](https://www.youtube.com/watch?v=6rgiPrzqt9w)
