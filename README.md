@@ -39,6 +39,12 @@
 * [The SDF of a Box](https://www.youtube.com/watch?v=62-pRVZuS5c)
 * [Cheatsheet](https://iquilezles.org/articles/distfunctions2d/)
 
+### Lighting
+* Physically Based Rendering: The Light Transport Equation
+* Learning Modern 3D Graphics Programming - "Normal Transformation" by Jason L. McKesson
+* [Diffuse and Lambertian Shading](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/diffuse-lambertian-shading.html)
+* [Ray Tracing](https://www.youtube.com/watch?v=iOlehM5kNSk)
+
 ### Text rendering
 * [Handmade Hero Day 162 - Introduction to Fonts](https://www.youtube.com/watch?v=ZK7PezR1KgU)
 
