@@ -44,6 +44,8 @@
 * Learning Modern 3D Graphics Programming - "Normal Transformation" by Jason L. McKesson
 * [Diffuse and Lambertian Shading](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/diffuse-lambertian-shading.html)
 * [Ray Tracing](https://www.youtube.com/watch?v=iOlehM5kNSk)
+* [Forward+ rendering](https://www.3dgep.com/forward-plus/)
+* [The Rendering Equation](https://www.youtube.com/watch?v=wawf7Am6xy0)
 
 ### Text rendering
 * [Handmade Hero Day 162 - Introduction to Fonts](https://www.youtube.com/watch?v=ZK7PezR1KgU)
