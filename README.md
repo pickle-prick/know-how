@@ -55,6 +55,11 @@
 
 ### Physics
 * [Newton's Second Law of Motion - Force, Mass, & Acceleration](https://www.youtube.com/watch?v=Ee6CHn0MRKE)
+* [Physically Based Modeling](https://graphics.stanford.edu/courses/cs448b-00-winter/papers/phys_model.pdf)
+* [Numerical Recipes in C.](https://www.cec.uchile.cl/cinetica/pcordero/MC_libros/NumericalRecipesinC.pdf)
+* [ConstraintsDerivationRigidBody3D](https://danielchappuis.ch/download/ConstraintsDerivationRigidBody3D.pdf)
+* [Distance Constraint](https://dyn4j.org/2010/09/distance-constraint/)
+* [Constrainted Rigidbody Simulation](https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation)
 
 ### Antialasing
 * [Drawing antialiased circles in OpenGL](https://rubendv.be/posts/fwidth/)
