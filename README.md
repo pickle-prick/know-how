@@ -97,6 +97,9 @@
 ### Performance
 * [Advanced API Performance: Shaders](https://developer.nvidia.com/blog/advanced-api-performance-shaders/)
 
+### Shader Programming
+* [The Book of Shaders](https://thebookofshaders.com/)
+
 ### Misc
 * ["Papers I Have Loved" by Casey Muratori](https://www.youtube.com/watch?v=SDS5gLSiLg0)
 * [lisyarus blog](https://lisyarus.github.io/blog/)
